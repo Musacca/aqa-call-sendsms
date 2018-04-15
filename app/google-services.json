@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "625914790676",
+    "firebase_url": "https://example-notification-cd98d.firebaseio.com",
+    "project_id": "example-notification-cd98d",
+    "storage_bucket": "example-notification-cd98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625914790676:android:5b33925bb014c7e9",
+        "android_client_info": {
+          "package_name": "net.sarayev.ourserviceexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625914790676-i4cf3sg961u6jo80j66d8frmjr7run3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoS2i7SscpP4mb0niOKNrcbNkoJjPuOME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
